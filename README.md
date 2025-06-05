@@ -1,6 +1,5 @@
 # BlazeFrost.github.io
 My Favorite Movies
-<!doctype html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
